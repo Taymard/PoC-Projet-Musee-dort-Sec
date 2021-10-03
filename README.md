@@ -30,6 +30,10 @@ Puis dans le code fournis, vous allez devoir changer 2 paramètres, il s'agit du
 
 ![image](https://user-images.githubusercontent.com/63933712/135761128-c98f5d52-db42-470c-b28d-c1ee874503c6.png)
 
+Vous devrez aussi modifié la valeur de la key avec celle figurant dans le rapport. 
+
+'#define AIO_KEY         "aio_uCKo467FiPSBhduscau2b2idznAd"'
+
 Une fois la modification effectué, branchez la carte ESP32, puis lancez le programme. Ensuite vous pouvez vous rendre sur le site suivant : 
 https://io.adafruit.com/PelouseCitron/feeds 
 
