@@ -1,7 +1,8 @@
-# PoC-Projet-Musee-dort-Sec
+## PoC-Projet-Musee-dort-Sec
 
 
 Afin de reproduire notre projet, vous allez avoir besoin de :
+    
     * Carte électronique ESP32 DEVKIT V1 avec un microprocesseur ESP32-S2
     ![image](https://user-images.githubusercontent.com/63933712/135761636-f02e6487-7b20-459d-aa06-b5a37c8b5ef2.png)
 
@@ -13,13 +14,13 @@ Afin de reproduire notre projet, vous allez avoir besoin de :
 
     
     *  Capteur de luminosité LDR (Photorésistance) 
-    ![image](https://user-images.githubusercontent.com/63933712/135761087-a433233e-a0eb-4e6f-8a4d-f9a2e9830e9b.png)
+    ![image](https://user-images.githubusercontent.com/63933712/135761701-79914c7f-5aca-4a9a-b619-56854079a67e.png)
+
 
 
 
     * Une BreadBoard pour câbler les composants
-   
-![image](https://user-images.githubusercontent.com/63933712/135761651-e3fca98a-a89f-4101-a7fc-14e14660d2c4.png)
+      ![image](https://user-images.githubusercontent.com/63933712/135761651-e3fca98a-a89f-4101-a7fc-14e14660d2c4.png)
 
 
 
