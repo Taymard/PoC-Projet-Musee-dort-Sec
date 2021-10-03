@@ -5,7 +5,7 @@ Afin de reproduire notre projet, vous allez avoir besoin de :
 
 
     - Carte électronique ESP32 DEVKIT V1 avec un microprocesseur ESP32-S2
-    ![image](https://user-images.githubusercontent.com/63933712/135760989-7b9e4455-1a35-4540-825d-043cc04b58a9.png)
+    ![image](https://user-images.githubusercontent.com/63933712/135761083-26c06a2d-3551-4c17-b96f-0a4b0f96aa2b.png)
 
 
 
@@ -15,13 +15,12 @@ Afin de reproduire notre projet, vous allez avoir besoin de :
 
     
     -  Capteur de luminosité LDR (Photorésistance) 
-    ![image](https://user-images.githubusercontent.com/63933712/135760997-958063b2-9b89-4d47-9d8b-ee640aa36210.png)
-
+    ![image](https://user-images.githubusercontent.com/63933712/135761087-a433233e-a0eb-4e6f-8a4d-f9a2e9830e9b.png)
 
 
 
     - Une BreadBoard pour câbler les composants
-    ![image](https://user-images.githubusercontent.com/63933712/135761008-23fc1e4a-5b85-4932-91de-c45ee3bf81c2.png)
+    ![image](https://user-images.githubusercontent.com/63933712/135761093-4578b2f7-26fe-460c-b661-6245b3a6ce0f.png)
 
 
 
