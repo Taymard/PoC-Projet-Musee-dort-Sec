@@ -12,7 +12,7 @@ Afin de reproduire notre projet, vous allez avoir besoin de :
 ![image](https://user-images.githubusercontent.com/63933712/135761645-c6300b4a-6afd-4705-810e-140aafaced94.png)
 
 
-#### Un Capteur de luminosité LDR (Photorésistance) 
+#### Un Capteur de luminosité LDR ( Photorésistance) 
 
 ![image](https://user-images.githubusercontent.com/63933712/135761701-79914c7f-5aca-4a9a-b619-56854079a67e.png)
 
