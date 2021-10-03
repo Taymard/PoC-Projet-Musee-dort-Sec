@@ -2,15 +2,14 @@
 
 
 Afin de reproduire notre projet, vous allez avoir besoin de :
-
-
     * Carte électronique ESP32 DEVKIT V1 avec un microprocesseur ESP32-S2
-    
+    ![image](https://user-images.githubusercontent.com/63933712/135761636-f02e6487-7b20-459d-aa06-b5a37c8b5ef2.png)
+
 
 
  
     * Capteur de température et d’humidité BME680 
-   ![image](https://user-images.githubusercontent.com/63933712/135760993-3ef18748-6ff0-48ea-bbe2-77673b6087d2.png)
+      ![image](https://user-images.githubusercontent.com/63933712/135761645-c6300b4a-6afd-4705-810e-140aafaced94.png)
 
     
     *  Capteur de luminosité LDR (Photorésistance) 
@@ -19,8 +18,8 @@ Afin de reproduire notre projet, vous allez avoir besoin de :
 
 
     * Une BreadBoard pour câbler les composants
-    ![image](https://user-images.githubusercontent.com/63933712/135761093-4578b2f7-26fe-460c-b661-6245b3a6ce0f.png)
-
+   
+![image](https://user-images.githubusercontent.com/63933712/135761651-e3fca98a-a89f-4101-a7fc-14e14660d2c4.png)
 
 
 
