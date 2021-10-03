@@ -2,6 +2,8 @@
 
 
 Afin de reproduire notre projet, vous allez avoir besoin de :
+
+
     - Carte électronique ESP32 DEVKIT V1 avec un microprocesseur ESP32-S2
     ![image](https://user-images.githubusercontent.com/63933712/135760989-7b9e4455-1a35-4540-825d-043cc04b58a9.png)
 
