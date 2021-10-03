@@ -7,8 +7,8 @@
 
 #define TIME_TO_SLEEP   6000
 #define uS_TO_mS_FACTOR 10000ULL
-#define WLAN_SSID       "HUAWEI P20 lite"
-#define WLAN_PASS       "Pistache1"
+#define WLAN_SSID       "Wi-Fi_access_point"
+#define WLAN_PASS       "Wi-Fi_password"
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
 #define AIO_USERNAME    "PelouseCitron"
